@@ -32,8 +32,9 @@ const data = [
 {
     id: 4,
     image: IMG4,
-    title:'Build a porfolio website with React and SCSS',
-    demo: 'https://dribbble.com/shost/169559=822-Maintaining-tasks-and-tracking-progress'
+    title: 'Building a Portfolio website with React and SCSS',
+    github: 'https://github.com/chukwudumebiughonu/portfolio',
+    demo: 'https://portfolio-phi-five-18.vercel.app/'
 }
 // {
     // id: 5,
