@@ -1,8 +1,8 @@
 import React from 'react';
 import './portfolio.css';
-import IMG1 from '../../assets/pr1.jpg'
-import IMG2 from '../../assets/pr2.jpg'
-import IMG3 from '../../assets/pr3.jpg'
+import IMG1 from '../../assets/dcar.png'
+import IMG2 from '../../assets/precisionmed.png'
+import IMG3 from '../../assets/port1.png'
 import IMG4 from '../../assets/pr4.png'
 import IMG5 from '../../assets/pr5.jpg'
 // import IMG6 from '../../assets/pr6.jpg'
@@ -11,37 +11,37 @@ const data = [
     {
         id: 1,
         image: IMG1,
-        title: 'Crypto Currency Dashboard & Financial Visualization',
-        github: 'https://github.com',
-        demo: 'https://dribbble.com/sots/166/73715-Crypto-currency-dashboards-and-financial-data-visualization'
+        title: 'Building a car renting app with Typescript and Tailwind',
+        github: 'https://github.com/chukwudumebiughonu/my-app',
+        demo: 'http://dumebiscar.vercel.app/'
 },
 {
         id: 2,
         image: IMG2,
-        title: 'Charts templates & infographics in Figma',
-        github: 'https://github.com',
-        demo: 'https://dribbble.com/shots/16500766-Orion-UI-kit-Charts-templates-infographics-in-Figma'
+        title: 'Building a blog App with NextJS and GraphQL, GraphQLCMS',
+        github: 'https://github.com/chukwudumebiughonu/Onprecisionmedicine',
+        demo: 'http://onprecisionmedicine.vercel.app/'
 },
 {
     id: 3,
     image: IMG3,
-    title: 'Figma dashboard UI kit for data design web apps',
-    github: 'https://github.com',
-    demo:'https://dribbble.com/shots/17290917-Eclipse-Figma-dashboard-UI-kit-for-data-design-web-apps'
+    title: 'Building a Portfolio website with React and CSS3',
+    github: 'https://github.com/chukwudumebiughonu/ChukwudumebiUghonu',
+    demo:'http://chukwudumebi-ughonu.vercel.app/'
 },
 {
     id: 4,
     image: IMG4,
-    title:'Maintaining task and tracking progress',
+    title:'Build a porfolio website with React and SCSS',
     demo: 'https://dribbble.com/shost/169559=822-Maintaining-tasks-and-tracking-progress'
-},
-{
-    id: 5,
-    image: IMG5,
-    title: 'Charts templates & infographics in Figma',
-    github: 'https://github.com',
-    demo: 'https://dribbble.com/shots/16541289-Orion-UI-kit-Charts-templates-infographics-in-Figma'
 }
+// {
+    // id: 5,
+    // image: IMG5,
+    // title: 'Charts templates & infographics in Figma',
+    // github: 'https://github.com',
+    // demo: 'https://dribbble.com/shots/16541289-Orion-UI-kit-Charts-templates-infographics-in-Figma'
+// }
 // {
 //     id: 6,
 //     image: IMG6,
