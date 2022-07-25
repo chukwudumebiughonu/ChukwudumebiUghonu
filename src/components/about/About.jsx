@@ -28,7 +28,7 @@ const About = () => {
                         <article className='about__card'>
                             <FiUsers className='about__icon' />
                             <h5>Clients</h5>
-                            <small>200+ Worldwide</small>
+                            <small>Worldwide</small>
                         </article>
                         <article className='about__card'>
                             <VscFolderLibrary className='about__icon' />
@@ -38,9 +38,8 @@ const About = () => {
                     </div>
  
                     <p>
-                        Lorem ipsum dolor sit amet consectetur adipisicing elit. Eaque eos voluptate ius dolorem
-                        naiores nihil ducimus at rem ullam reprehenderit quidem quia deserunt, molestiae, eligendi
-                        amet repellat molestias quos totem.
+                    I am Chukwudumebi Ughonu, a Full Stack Web Developer (specializing in React Application) 
+                    and A Machine Learning Expert. I love creating web apps and Machine Learning Models that people love.
                     </p>
                     <a href="#contact" className='btn btn-primary'> Let's Talk</a>
                 </div>

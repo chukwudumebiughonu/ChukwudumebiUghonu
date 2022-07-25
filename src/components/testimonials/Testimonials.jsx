@@ -18,17 +18,17 @@ const data = [
     {
         avatar: AVTR1,
         name: 'Claire McDonald',
-        review: 'Modi alias animi dolorem aliquam ea eun beatae maiores, consectetur prossentium quibusdam, commodi velit porro blanditlis consequetur qui molestiae. Dolorem pespiciatis aspernature labore distinctio ratione delectus voluptater dolores deserunt explicabo nostrum ducinu quasi?'
+        review: 'Working with Chukwudumebi was a great pleasure as he  walked me through each step of the project with a keen eye for details.'
     },
     {
         avatar: AVTR2,
         name: 'Andrea Melovish',
-        review: 'Modi alias animi dolorem aliquam ea eun beatae maiores, consectetur prossentium quibusdam commodi velit porro blanditlis consequetur qui molestiae Dolorem pespiciatis aspernature labore distinctio ratione delectus voluptater dolores  deserunt explicabo nostrum ducinu quasi?'
+        review: "I was satisfied with the quality of Chukwudumebi's work, and his communication skills, I look forward to working with him on my next project "
     },
     {
         avatar: AVTR3,
         name: 'Pauline Goodman',
-        review: 'Modi alias animi dolorem aliquam ea eun beatae maiores, consectetur prossentium quibusdam, commodi velit porro  blanditlis consequetur qui molestiae. Dolorempespiciatis aspernature labore distinctio ratione delectus voluptater dolores deserunt explicabo nostrum ducinu quasi?'
+        review: 'Chukwudumebi is an excellent developer!'
     },
 ]
 

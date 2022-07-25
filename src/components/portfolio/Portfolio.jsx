@@ -4,8 +4,12 @@ import IMG1 from '../../assets/dcar.png'
 import IMG2 from '../../assets/precisionmed.png'
 import IMG3 from '../../assets/port1.png'
 import IMG4 from '../../assets/pr4.png'
-import IMG5 from '../../assets/pr5.jpg'
-// import IMG6 from '../../assets/pr6.jpg'
+import IMG5 from '../../assets/Pandas.png'
+import IMG6 from '../../assets/Numpy.png'
+import IMG7 from '../../assets/Matplotlib.png'
+import IMG8 from '../../assets/Sklearn .png'
+import IMG9 from '../../assets/MyFirstProject.png'
+import IMG10 from '../../assets/Second_project.png'
 
 const data = [
     {
@@ -35,21 +39,55 @@ const data = [
     title: 'Building a Portfolio website with React and SCSS',
     github: 'https://github.com/chukwudumebiughonu/portfolio',
     demo: 'https://portfolio-phi-five-18.vercel.app/'
-}
-// {
-    // id: 5,
-    // image: IMG5,
-    // title: 'Charts templates & infographics in Figma',
-    // github: 'https://github.com',
-    // demo: 'https://dribbble.com/shots/16541289-Orion-UI-kit-Charts-templates-infographics-in-Figma'
-// }
-// {
-//     id: 6,
-//     image: IMG6,
-//     title: 'Charts templates & infographics in Figma',
-//     github: 'htpps://github.com',
-//     demo: 'https://dribbble.com/short/15887665-Orion-UI-kit-Charts-templates-infographics-in-Figma'
-// }
+},
+
+// 
+]
+const data1= [
+    {
+        id2: 5,
+        image1: IMG5,
+        title1: 'Machine Learning project, Pandas',
+        github1: 'https://github.com/chukwudumebiughonu/ML_Panda_Practice_Book',
+        
+    },
+    
+    {
+        id2: 6,
+        image1: IMG6,
+        title1: 'Machine Learning project, Numpy',
+        github1: 'https://github.com/chukwudumebiughonu/ML_Numpy_Practice_Notebook',
+        
+    },
+
+    {
+        id2: 7,
+        image1: IMG7,
+        title1: 'Machine Learning project, Matplotlib and Seaborn',
+        github1: 'https://github.com/chukwudumebiughonu/ML_Matplotlib_Seaborn_Visualization',
+            
+    },
+    {
+        id2: 8,
+        image1: IMG8,
+        title1: 'Machine Learning project Sci-kit Learn',
+        github1: 'https://github.com/chukwudumebiughonu/ML_Sci-kitLearn_Creating_Models',
+            
+    },
+        {
+            id2: 9,
+            image1: IMG9,
+            title1: 'Machine Learning project, my first ML Project',
+            github1: 'https://github.com/chukwudumebiughonu/Building_My_First_ML_Project',
+            
+        },
+        {
+            id2: 10,
+            image1: IMG10,
+            title1: 'Machine Learning project, my second project',
+            github1: 'https://github.com/chukwudumebiughonu/Building_My_Second_ML_Project',
+            
+        },
 ]
 const Portfolio = () => {
     return(
@@ -59,8 +97,8 @@ const Portfolio = () => {
 
             <div className='container portfolio__container'>
                 {
-                    data.map(({id, image, title, github, demo}) => {
-                        return (
+                    data.map(({id, image,  title,  github,  demo}) => {
+                        return ( <div>
                            <article key={id} className='portfolio__item'>
                            <div className='portfolio__item-image'>
                              <img src={image} alt='{title}' />
@@ -71,6 +109,23 @@ const Portfolio = () => {
                              < a href={demo} className='btn btn-primary' target='_blank'>Live Demo</a>
                            </div>
                           </article>
+                          </div>
+                        )
+                    })}
+                    {
+                    data1.map(({id2, image1,  title1,  github1, demo}) => {
+                        return ( <div>
+                          <article key={id2} className='portfolio__item'>
+                           <div className='portfolio__item-image'>
+                             <img src={image1} alt='{title1}' />
+                           </div>
+                           <h3>{title1}</h3>
+                           <div className='portfolio__item-cta'>
+                             < a href={github1} className='btn' target='_blank'>Github</a>
+                            
+                           </div>
+                          </article>
+                          </div>
                         )
                     })
                 }
