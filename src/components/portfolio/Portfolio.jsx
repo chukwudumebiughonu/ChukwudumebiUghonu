@@ -72,8 +72,7 @@ const data1= [
         id2: 8,
         image1: IMG8,
         title1: 'Machine Learning project, Matplotlib and Seaborn',
-        github1: 'https://github.com/chukwudumebiughonu/ML_Matplotlib_Seaborn_Visualization',
-            
+        github1: 'https://github.com/chukwudumebiughonu/ML_Matplotlib_Seaborn_Visualization'
     },
     {
         id2: 9,
