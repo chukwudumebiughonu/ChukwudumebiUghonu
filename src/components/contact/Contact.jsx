@@ -53,9 +53,15 @@ const Contact = () => {
                         WhatsApp
                     </h4>
                     <h5>
+<<<<<<< HEAD
                         +2348147418752
                     </h5>
                     <a href='http s://api.whatsapp.com/send?phone=+2348147418752' target='_blank'>Send a message</a>
+=======
+                        +123456789
+                    </h5>
+                    <a href='http s://api.whatsapp.com/send?phone=+21233456789' target='_blank'>Send a message</a>
+>>>>>>> e94a84c9e275afa3d487296b3988975a7e37f32b
                 </article>
             </div>
             {/*END OF CONTACT OPTIONS */}
