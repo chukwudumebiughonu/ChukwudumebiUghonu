@@ -1,0 +1,54 @@
+import React from 'react';
+import  './about.css';
+import ME from '../../assets/profile-pic2.png';
+import {FaAward} from 'react-icons/fa';
+import {FiUsers} from 'react-icons/fi';
+import {VscFolderLibrary} from 'react-icons/vsc';
+
+const About = () => {
+    return (
+        <section id='about'>
+            <h5>Get To Know</h5>
+            <h2>About Me</h2>
+
+            <div className='container about__container'>
+                <div className='about__me'>
+                    <div className='about__me-image'>
+                        <img src={ME} alt="About Image" />
+                    </div>
+                </div>
+
+                <div className='about__content'>
+                    <div className='about__cards'>
+                        <article className='about__card'>
+                            <FaAward className='about__icon' />
+                            <h5>Experience</h5>
+<<<<<<< HEAD
+                            <small>5+ Year's Working</small>
+=======
+                            <small>3+ Year's Working</small>
+>>>>>>> e94a84c9e275afa3d487296b3988975a7e37f32b
+                        </article>
+                        <article className='about__card'>
+                            <FiUsers className='about__icon' />
+                            <h5>Clients</h5>
+                            <small>Worldwide</small>
+                        </article>
+                        <article className='about__card'>
+                            <VscFolderLibrary className='about__icon' />
+                            <h5>Projects</h5>
+                            <small>10+ completed projects</small>
+                        </article>
+                    </div>
+ 
+                    <p>
+                    I am Chukwudumebi Ughonu, a Full Stack Web Developer (specializing in React Application) 
+                    and A Machine Learning Expert. I love creating web apps and Machine Learning Models that people love.
+                    </p>
+                    <a href="#contact" className='btn btn-primary'> Let's Talk</a>
+                </div>
+            </div>
+        </section>
+    )
+}
+export default About;
