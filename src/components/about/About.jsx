@@ -39,7 +39,7 @@ const About = () => {
  
                     <p>
                     I am Chukwudumebi Ughonu, a Full Stack Web Developer (specializing in React Application) 
-                    and A Machine Learning Expert. I love creating web apps and Machine Learning Models that people love.
+                    and A Machine Learning Expert. I love creating web apps and Machine Learning Models that people love!.
                     </p>
                     <a href="#contact" className='btn btn-primary'> Let's Talk</a>
                 </div>
