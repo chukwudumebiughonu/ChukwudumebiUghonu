@@ -1,0 +1,33 @@
+{
+  "files": {
+    "main.css": "/static/css/main.4da40ced.css",
+    "main.js": "/static/js/main.9f1ba47a.js",
+    "static/media/precisionmed.png": "/static/media/precisionmed.5dfff9f5d01e14b236cd.png",
+    "static/media/avarta3.jpg": "/static/media/avarta3.ff112a120c2f4dc1b4a4.jpg",
+    "static/media/crptchain.png": "/static/media/crptchain.d0fe5c3bedfce2f146d6.png",
+    "static/media/pr4.png": "/static/media/pr4.dc3ec5fa469d55e78e88.png",
+    "static/media/port1.png": "/static/media/port1.b27d5cfbd713916b059e.png",
+    "static/media/dcar.png": "/static/media/dcar.2b9f80acf327e524a557.png",
+    "static/media/profile-pic2.png": "/static/media/profile-pic2.1f4e98f80324eeeb8c77.png",
+    "static/media/Pig_Game.png": "/static/media/Pig_Game.c62b964748a5430d4b95.png",
+    "static/media/Chukwudumebi_Ughonu_cv.pdf": "/static/media/Chukwudumebi_Ughonu_cv.7717d3863e21aaf237ae.pdf",
+    "static/media/pp12.png": "/static/media/pp12.d5eaabdf3ccf34b64fb4.png",
+    "static/media/ppa.png": "/static/media/ppa.d7040b7dbc03f8845657.png",
+    "static/media/avartar1.jpg": "/static/media/avartar1.a0912e809ce860fe6149.jpg",
+    "static/media/Second_project.png": "/static/media/Second_project.5216d63175787b995413.png",
+    "static/media/Sklearn .png": "/static/media/Sklearn .b1103f03433682d32a9d.png",
+    "static/media/MyFirstProject.png": "/static/media/MyFirstProject.880d9a31d9ac1bda197f.png",
+    "static/media/Numpy.png": "/static/media/Numpy.6e9b2e6d932869a48152.png",
+    "static/media/Pandas.png": "/static/media/Pandas.4e9616e6920438448f0d.png",
+    "static/media/Matplotlib.png": "/static/media/Matplotlib.1d05bff7f4f477c5cf1e.png",
+    "static/media/BudgetPal.png": "/static/media/BudgetPal.8602ad88e54f44794b65.png",
+    "static/media/avarta2.jpg": "/static/media/avarta2.ae146699384558bc7cfc.jpg",
+    "index.html": "/index.html",
+    "main.4da40ced.css.map": "/static/css/main.4da40ced.css.map",
+    "main.9f1ba47a.js.map": "/static/js/main.9f1ba47a.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.4da40ced.css",
+    "static/js/main.9f1ba47a.js"
+  ]
+}
