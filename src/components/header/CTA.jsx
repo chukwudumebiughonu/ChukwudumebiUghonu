@@ -1,5 +1,5 @@
 import React from 'react';
-import CV from '../../assets/Chukwudumebi_Ughonu_cv.pdf';
+import CV from '../../assets/Chukwudumebi_Ughonu.pdf';
 
 const CTA = () => {
     return(
