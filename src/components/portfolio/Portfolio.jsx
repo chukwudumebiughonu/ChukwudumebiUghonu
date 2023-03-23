@@ -27,8 +27,8 @@ const data = [
         id: 2,
         image: IMG2,
         title: 'Building a fitness website with TypeScript, React, TailwindCSS and Vite',
-        github: 'https://evolve-sage.vercel.app/',
-        demo: 'https://github.com/chukwudumebiughonu/Evolve/'
+        github: 'https://github.com/chukwudumebiughonu/Evolve/',
+        demo: 'https://evolve-sage.vercel.app/'
     },
     {
         id: 3,
