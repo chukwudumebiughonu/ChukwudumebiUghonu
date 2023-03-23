@@ -11,7 +11,7 @@ import IMG8 from '../../assets/pr4.png'
 import IMG9 from '../../assets/Pandas.png'
 import IMG10 from '../../assets/Numpy.png'
 import IMG11 from '../../assets/Matplotlib.png'
-import IMG12 from '../../assets/Sklearn .png'
+import IMG12 from '../../assets/Sklearn.png'
 import IMG13 from '../../assets/MyFirstProject.png'
 import IMG14 from '../../assets/Second_project.png'
 
