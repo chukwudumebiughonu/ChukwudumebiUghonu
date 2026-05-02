@@ -3,10 +3,10 @@
 I'm a **medical doctor and full-stack engineer** based in Ibadan, Nigeria.
 I build production web applications and publish research on AI in clinical medicine.
 
-🩺 **MB;BS** — University of Ibadan (2023)
-💻 **7+ years** shipping production software — fintech, B2B SaaS, real-time, health-tech
-📄 **Published** — *Data in Brief* (Elsevier), 2026 · [DOI: 10.1016/j.dib.2026.112633](https://doi.org/10.1016/j.dib.2026.112633)
-🏥 **Currently** — Senior Frontend Engineer on the Health Management System rebuild 
+-🩺 **MB;BS** — University of Ibadan (2023)
+- 💻 **7+ years** shipping production software — fintech, B2B SaaS, real-time, health-tech
+- 📄 **Published** — *Data in Brief* (Elsevier), 2026 · [DOI: 10.1016/j.dib.2026.112633](https://doi.org/10.1016/j.dib.2026.112633)
+- 🏥 **Currently** — Senior Frontend Engineer on the Health Management System rebuild 
 
 ### What I'm building
 
