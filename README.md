@@ -53,7 +53,7 @@ I build **production-grade software systems** and apply **machine learning to cl
 
 ---
 
-## ✍️ Writing
+## 🖋️ Writing
 
 I write about **medicine × software engineering × AI systems design**
 
