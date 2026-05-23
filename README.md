@@ -41,9 +41,10 @@ I build **production-grade software systems** and apply **machine learning to cl
 
 ## 💻 Technical Stack
 
-**Frontend:** - TypeScript • React • Next.js (15/16) • Angular 18 • Tailwind CSS • shadcn/ui • TanStack Query • Zustand
-**Backend:** - Node.js • Express • FastAPI • Prisma • PostgreSQL • MySQL • MongoDB
+**Frontend:**  TypeScript • React • Next.js (15/16) • Angular 18 • Tailwind CSS • shadcn/ui • TanStack Query • Zustand
+**Backend:**  Node.js • Express • FastAPI • Prisma • PostgreSQL • MySQL • MongoDB
 **AI / Data Science:** Python • PyTorch • scikit-learn • XGBoost • SHAP • CNNs (DenseNet-121)
+
 ---
 
 ## 🎓 Education & Research
