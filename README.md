@@ -1,31 +1,98 @@
-# Hi, I'm Chukwudumebi 👋
+# 👋 Chukwudumebi Ughonu
 
-I'm a **medical doctor and full-stack engineer** based in Ibadan, Nigeria.
-I build production web applications and publish research on AI in clinical medicine.
+**Medical Doctor (MB;BS) • Full-Stack Engineer • AI in Healthcare Researcher**  
+Ibadan, Nigeria
 
-- 🩺 **MB;BS** — University of Ibadan (2023)
-- 💻 **7+ years** shipping production software — fintech, B2B SaaS, real-time, health-tech
-- 📄 **Published** — *Data in Brief* (Elsevier), 2026 · [DOI: 10.1016/j.dib.2026.112633](https://doi.org/10.1016/j.dib.2026.112633)
-- 🏥 **Currently** — Senior Frontend Engineer on the Health Management System rebuild 
+I build **production-grade software systems** and apply **machine learning to clinical medicine**, with experience across **health-tech, fintech, and B2B SaaS systems**.
 
-### What I'm building
+---
 
-- **HMS** — multi-tenant hospital management platform, Next.js 15 + React 18 + TypeScript,scope across 15 clinical and operational modules
-- **Cervical cancer AI screening** — DenseNet-121 trained on 3,356 colposcopy images from 332 patients, peer-reviewed dataset published in Elsevier
-- **Open source** — multi-tenant SaaS templates, real-time collaborative tools, my own portfolio site (Next.js 16, Tailwind v4, hand-coded)
+## 🚀 Current Focus
 
-### Stack
+**Senior Frontend Engineer — Hospital Management System (HMS) Rebuild**
 
-**Frontend:** TypeScript · React · Next.js 15/16 · Angular 18 · Tailwind · shadcn/ui · TanStack Query · Zustand
-**Backend:** Node · Express · FastAPI · Prisma · PostgreSQL · MySQL · MongoDB
-**Data / ML:** Python · PyTorch · scikit-learn · XGBoost · SHAP · DenseNet-121
+- Architecting a **multi-tenant hospital management platform**
+- Stack: Next.js 15, React 18, TypeScript
+- Designing systems across **15+ clinical and operational modules**
+- Focus: scalability, data integrity, and real-time workflows in healthcare systems
 
-### Writing
+---
 
-I write about the intersection of medicine and software at [chukwudumebiu.vercel.app/journal](https://chukwudumebiu.vercel.app/journal).
+## 🧠 Key Projects
 
-### Reach me
+### 🏥 AI for Cervical Cancer Screening
 
-- 🌐 [chukwudumebiu.vercel.app](https://chukwudumebiu.vercel.app)
-- 💼 [linkedin.com/in/chukwudumebiughonu](https://www.linkedin.com/in/chukwudumebiughonu)
-- ✉️ chukwudumebiughonu@gmail.com
+- Built a deep learning model using **DenseNet-121**
+- Trained on **3,356 colposcopy images from 332 patients**
+- Output contributed to a **peer-reviewed dataset (Elsevier, Data in Brief, 2026)**
+- DOI: https://doi.org/10.1016/j.dib.2026.112633
+
+---
+
+### 🧩 Multi-Tenant SaaS Systems (Open Source)
+
+- Designed reusable SaaS architecture templates
+- Focus on:
+  - multi-tenancy
+  - real-time collaboration
+  - scalable backend patterns
+
+---
+
+### 🌐 Personal Portfolio Platform
+
+- Built with **Next.js 16 + Tailwind CSS v4**
+- Fully custom, hand-coded system
+- Optimized for performance, SEO, and developer branding
+
+---
+
+## 💻 Technical Stack
+
+**Frontend**
+- TypeScript • React • Next.js (15/16)
+- Angular 18 • Tailwind CSS • shadcn/ui
+- TanStack Query • Zustand
+
+**Backend**
+- Node.js • Express • FastAPI
+- Prisma • PostgreSQL • MySQL • MongoDB
+
+**AI / Data Science**
+- Python • PyTorch • scikit-learn
+- XGBoost • SHAP
+- CNNs (DenseNet-121)
+
+---
+
+## 🎓 Education & Research
+
+- **MB;BS — University of Ibadan (2023)**
+- Published researcher — *Data in Brief (Elsevier), 2026*  
+  https://doi.org/10.1016/j.dib.2026.112633
+
+---
+
+## ✍️ Writing
+
+I write about **medicine × software engineering × AI systems design**
+
+https://chukwudumebiu.vercel.app/journal
+
+---
+
+## 📬 Contact
+
+- 🌐 Portfolio: https://chukwudumebiu.vercel.app  
+- 💼 LinkedIn: https://www.linkedin.com/in/chukwudumebiughonu  
+- ✉️ Email: chukwudumebiughonu@gmail.com  
+
+---
+
+## 🧭 Summary (for AI + recruiters)
+
+- Full-stack engineer with **7+ years production experience**
+- Medical doctor applying AI to healthcare systems
+- Experienced in **Next.js, TypeScript, scalable SaaS, and ML systems**
+- Published research in peer-reviewed medical data journal
+- Focus: **health-tech infrastructure + applied machine learning**
