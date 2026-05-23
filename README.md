@@ -7,7 +7,7 @@ I build **production-grade software systems** and apply **machine learning to cl
 
 ---
 
-## 🚀👨🏾‍🌾📬📌🔎🔍📋⚙️🛠️🏗️🏢  Current Focus
+## 🔍 Current Focus
 
 **Senior Frontend Engineer — Hospital Management System (HMS) Rebuild**
 
@@ -18,7 +18,7 @@ I build **production-grade software systems** and apply **machine learning to cl
 
 ---
 
-## 🧠 Key Projects
+## 🏗️ Key Projects
 
 ### 🏥 AI for Cervical Cancer Screening
 
@@ -29,21 +29,19 @@ I build **production-grade software systems** and apply **machine learning to cl
 
 ---
 
-### 🧩 Multi-Tenant SaaS Systems (Open Source)
+### ⚙️ Multi-Tenant SaaS Systems (Open Source)
 
 - Designed reusable SaaS architecture templates
-- Focus on:
-  - multi-tenancy
-  - real-time collaboration
-  - scalable backend patterns
+- **Focus on**: multi-tenancy • real-time collaboration • scalable backend patterns
 
+  
 ---
 
-## 💻 Technical Stack
+## 🛠️ Technical Stack
 
-**Frontend:**  TypeScript • React • Next.js (15/16) • Angular 18 • Tailwind CSS • shadcn/ui • TanStack Query • Zustand
-**Backend:**  Node.js • Express • FastAPI • Prisma • PostgreSQL • MySQL • MongoDB
-**AI / Data Science:** Python • PyTorch • scikit-learn • XGBoost • SHAP • CNNs (DenseNet-121)
+- **Frontend:**  TypeScript • React • Next.js (15/16) • Angular 18 • Tailwind CSS • shadcn/ui • TanStack Query • Zustand
+- **Backend:**  Node.js • Express • FastAPI • Prisma • PostgreSQL • MySQL • MongoDB
+- **AI / Data Science:** Python • PyTorch • scikit-learn • XGBoost • SHAP • CNNs (DenseNet-121)
 
 ---
 
