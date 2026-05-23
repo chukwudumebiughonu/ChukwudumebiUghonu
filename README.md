@@ -7,7 +7,7 @@ I build **production-grade software systems** and apply **machine learning to cl
 
 ---
 
-## 🚀 Current Focus
+## 🚀👨🏾‍🌾📬📌🔎🔍📋⚙️🛠️🏗️🏢  Current Focus
 
 **Senior Frontend Engineer — Hospital Management System (HMS) Rebuild**
 
@@ -39,30 +39,11 @@ I build **production-grade software systems** and apply **machine learning to cl
 
 ---
 
-### 🌐 Personal Portfolio Platform
-
-- Built with **Next.js 16 + Tailwind CSS v4**
-- Fully custom, hand-coded system
-- Optimized for performance, SEO, and developer branding
-
----
-
 ## 💻 Technical Stack
 
-**Frontend**
-- TypeScript • React • Next.js (15/16)
-- Angular 18 • Tailwind CSS • shadcn/ui
-- TanStack Query • Zustand
-
-**Backend**
-- Node.js • Express • FastAPI
-- Prisma • PostgreSQL • MySQL • MongoDB
-
-**AI / Data Science**
-- Python • PyTorch • scikit-learn
-- XGBoost • SHAP
-- CNNs (DenseNet-121)
-
+**Frontend:** - TypeScript • React • Next.js (15/16) • Angular 18 • Tailwind CSS • shadcn/ui • TanStack Query • Zustand
+**Backend:** - Node.js • Express • FastAPI • Prisma • PostgreSQL • MySQL • MongoDB
+**AI / Data Science:** Python • PyTorch • scikit-learn • XGBoost • SHAP • CNNs (DenseNet-121)
 ---
 
 ## 🎓 Education & Research
